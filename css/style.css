@@ -167,3 +167,36 @@ p {
 	color: #D01919;
 	margin-bottom: 25px;
 }
+.intrOnes {
+	font-size: 18px;
+	color: #D01919;
+	margin-bottom: 10px;
+}
+
+.jos{
+	padding: 20px;
+	margin: 35px;
+	font-size: 24px;
+	color: #fff;
+
+}
+
+.joshpic{ 
+vertical-align:
+border-image-width: 512px;
+float: left;
+color: #fff;
+}
+
+#j12 {
+	margin-top: 30px;
+	text-align: center;
+	position: relative;
+	z-index: 1;
+	color: #ffffff;
+	text-shadow: 3px 3px 0px #2c2e38, 5px 5px 0px #5c5f72;
+	font: 60px 'BazarMedium';
+	letter-spacing: 10px;
+	margin-bottom: 40px;
+	font-size: 20px;
+}
